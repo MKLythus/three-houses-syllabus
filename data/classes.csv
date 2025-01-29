@@ -35,15 +35,15 @@ Bishop,10,,10,25,5,25,-10,25,5,,,,,,,A,,,,,White Magic Uses x2,White Magic Heal 
 Enlightened One,30,10,10,,,,5,5,5,,,,,,,,,,,,Swordfaire,Terrain Resistance,,Sacred Power,,master,Byleth
 Emperor,45,20,20,-10,-10,-10,30,-10,5,,,,,,,,,,,,Charm,Axefaire,,Axefaire,Flickering Flower,master,Edelgard
 Great Lord,35,20,,10,10,10,10,,5,,,,,,,,,,,,Charm,Lancefaire,,Lancefaire,Paraselene,master,Dimitri
-Barbarossa,25,15,,,15,,,-10,5,,,,,,,,,,,,Charm,Bowfaire,Canto,Bowfaiire,Wind God,master,Claude
+Barbarossa,25,15,,,15,,,-10,5,,,,,,,,,,,,Charm,Bowfaire,Canto,Bowfaire,Wind God,master,Claude
 Falcon Knight,25,5,,,25,,-10,5,5,C+,A,,,,,,,,,A,Canto,Lancefaire,Avo +10,Lance Crit +10,,master,female
-Wyvern Lord,35,20,-5,,-5,,20,-10,5,,C+,A,,,,,,,,A,Canto,Axefaire,Avo +10,Axe Crit+10,,master,
+Wyvern Lord,35,20,-5,,-5,,20,-10,5,,C+,A,,,,,,,,A,Canto,Axefaire,Avo +10,Axe Crit +10,,master,
 Mortal Savant,15,15,15,15,20,15,-10,-5,5,A,,,,,A,,,,,,Swordfaire,Black Tomefaire,,Defiant Crit,,master,
 Great Knight,45,25,,,-20,,50,-20,5,,,B+,,,,,,B+,B,,Canto,Lancefaire,Axefaire,Defense +2,,master,
 Bow Knight,30,10,,25,-5,25,10,,5,,C+,,A,,,,,,A,,Canto,Bowfaire,Bowrange +2,Aegis,,master,
 Dark Knight,25,10,10,10,-5,10,10,10,5,,C,,,,B+,,,,B+,,Canto,Black Tomefaire,Dark Tomefaire,Black Magic Crit +10,,master,
 Holy Knight,15,,5,25,5,25,-5,30,5,,C,,,,,B+,,,B+,,Canto,White Tomefaire,Terrain Resistance,White Magic Crit +10,,master,
-War Master,30,25,,10,10,10,15,-10,5,,,A,,A,,,,,,,Fistfaire,Axefaire,Crit +20,War Master’s Strike,Fierce Iron Fist,master,male
+War Master,30,25,,10,10,10,15,-10,5,,,A,,A,,,,,,,Fistfaire,Axefaire,Crit +20,,"Fierce Iron Fist, War Master’s Strike",master,male
 Gremory,15,,20,20,15,20,-10,20,5,,,,,,A,A,,,,,Black Magic Uses x2,Dark Magic Uses x2,White Magic Uses x2,Spectral Shield,,master,female
 Dancer,15,5,5,5,5,5,5,5,25,,,,,,,,,,,,Dance,,,Special Dance,,event,
 Trickster,15,5,5,20,20,20,-10,-5,5,B,,,,,C+,,,,,,Locktouch,Stealth,Lucky Seven,Smoke Bomb,Hexblade,advanced,
