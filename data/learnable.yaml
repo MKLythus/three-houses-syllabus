@@ -83,11 +83,11 @@ Byleth:
       S: Rally Movement
   combat arts:
     sword:
-      C+: Bane of Monsters
+      C+: Subdue
       A: Windsweep
     brawling:
-      C+: Draining Blow 
-      A: Mystic Blow
+      C+: Mystic Blow 
+      B: Nimble Combo
   spells:
     faith:
       C: Recover
@@ -108,11 +108,11 @@ Edelgard:
       S: Rally Charm
   combat arts:
     sword:
-      C+: Haze Strike
+      C+: Sword Dance
       A: Hexblade
     axe:
-      C+: Monster Breaker
-      A: Lightning Axe
+      C+: Lightning Axe
+      A: Armored Strike
   spells:
     faith:
       C: Recover
@@ -150,6 +150,7 @@ Dorothea:
   combat arts:
     sword:
       C+: Hexblade
+      B+: Sword Dance
   spells:
     faith:
       C: Physics
@@ -166,9 +167,9 @@ Ferdinand:
       A: Perspective
   combat arts:
     sword:
-      C+: Sunder
+      B: Sunder
     lance:
-      C+:	Shatter Slash
+      C+: Hit and Run
       A: Swift Strike
     axe:
       C+: Focused Strike
@@ -208,7 +209,7 @@ Caspar:
   combat arts:
     axe:
       C+: Wild Abandon
-      A: Exhaustive Strike
+      A: Diamond Axe
     brawling:
       C+: Bombard
       A: Mighty Blow
@@ -224,13 +225,14 @@ Petra:
       A: Hunting Horn
   combat arts:
     sword:
-      C+: Bane of Monsters
+      C+: Haze Slice
       A: Finesse Blade
     axe:
-      C+: Wild Abandon
+      C+: Spike
       A: Diamond Axe
     bow:
-      C+: Warning Shot
+      C+: Break Shot
+      A: Warning Shot
   spells:
     faith:
       C: Restore
@@ -263,10 +265,10 @@ Dimitri:
       S: Rally Charm
   combat arts:
     sword:
-      C+: Sunder
+      B: Sunder
       A: Windsweep
     lance:
-      C+: Monster Piercer
+      C+: Hit and Run
       A: Glowing Ember
   spells:
     faith:
@@ -306,8 +308,8 @@ Felix:
     bow:
       C+: Heavy Draw
     brawling:
-      C+: Nimble Combo
-      A: Mystic Blow
+      C+: Mystic Blow
+      A: Nimble Combo
   spells:
     faith:
       C: Recover
@@ -336,6 +338,7 @@ Ashe:
   combat arts:
     axe:
       C+: Focused Strike
+      B: Spike
     bow:
       C+: Deadeye
       A: Warning Shot
@@ -391,9 +394,10 @@ Ingrid:
       A: Tactical Retreat
   combat arts:
     sword:
-      C+: Hexblade
+      C+: Monsterbane
+      A: Hexblade
     lance:
-      C+: Hit and Run
+      C: Hit and Run
       A: Frozen Lance
   spells:
     faith:
@@ -414,10 +418,10 @@ Claude:
       S: Rally Charm
   combat arts:
     sword:
-      C+: Bane of Monsters
-      A: Finesse Blade
+      C+: Finesse Blade
+      A: Windsweep
     bow:
-      C+: Monster Blast
+      C+: Ward Arrow
       A: Encloser
   spells:
     faith:
@@ -435,6 +439,7 @@ Lorenz:
   combat arts:
     lance:
       C+: Frozen Lance
+      A: Glowing Ember
   spells:
     faith:
       C: Physic
@@ -451,6 +456,7 @@ Hilda:
   combat arts:
     lance:
       C+: Shatter Slash
+      A: Glowing Ember
     axe:
       C+: Spike
       A: Diamond Axe
@@ -469,8 +475,9 @@ Raphael:
   combat arts:
     axe:
       C+: Wild Abandon
+      B: Focused Strike
     brawling:
-      C+: Monster Crusher
+      C+: Smite
       A: Draining Blow
   spells:
     faith:
@@ -503,6 +510,7 @@ Ignatz:
   combat arts:
     sword:
       C+: Haze Slice
+      A: Sunder
     bow:
       C+: Break Shot
       A: Ward Arrow
@@ -656,7 +664,7 @@ Catherine:
       A: Unyielding
   combat arts:
     sword:
-      C+: Bane of Monsters
+      C+: Monsterbane
       A: Finesse Blade
     brawling:
       C+: Nimble Combo
@@ -676,7 +684,7 @@ Alois:
   combat arts:
     axe:
       C+: Spike
-      A: Exhaustive Strike
+      B: Exhaustive Strike
     brawling:
       C+: One-Two Punch
       A: Mighty Blow
@@ -713,7 +721,7 @@ Shamir:
       A: Lance Jab
     bow:
       C+: Heavy Draw
-      A: Monster Blast
+      A: Encloser
   spells:
     faith:
       C: Physic
@@ -779,7 +787,7 @@ Constance:
   combat arts:
     sword:
       C+: Soulblade
-      A: Hexblade
+      B: Hexblade
   spells:
     faith:
       D: Heal
