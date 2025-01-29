@@ -78,9 +78,8 @@ UNIVERSAL:
 Byleth:
   abilities:
     authority:
-      C: Battalion Vantage
       C+: Model Leader
-      A: Battalion Desperation
+      A: Exemplar
       S: Rally Movement
   combat arts:
     sword:
@@ -104,9 +103,8 @@ Byleth:
 Edelgard:
   abilities:
     authority:
-      C: Battalion Vantage
       C+: Model Leader
-      A: Battalion Renewal
+      A: Twin Crests
       S: Rally Charm
   combat arts:
     sword:
@@ -128,9 +126,8 @@ Hubert:
   abilities:
     authority:
       D: Rally Magic
-      C: Battalion Wrath
       C+: Rally Resistance
-      A: Battalion Desperation
+      A: Vassal
       S: Rally Speed
   combat arts:
     bow:
@@ -149,7 +146,7 @@ Dorothea:
   abilities:
     authority:
       D: Rally Charm
-      C: Battalion Desperation
+      A: Allegro
   combat arts:
     sword:
       C+: Hexblade
@@ -166,7 +163,7 @@ Ferdinand:
   abilities:
     authority:
       D: Rally Dexterity
-      C: Battalion Desperation
+      A: Perspective
   combat arts:
     sword:
       C+: Sunder
@@ -188,7 +185,7 @@ Ferdinand:
 Bernadetta:
   abilities:
     authority:
-      C: Battalion Wrath
+      A: Fight or Flight
   combat arts:
     lance:
       C+: Vengeance
@@ -207,7 +204,7 @@ Bernadetta:
 Caspar:
   abilities:
     authority:
-      C: Battalion Wrath
+      A: Battle Cry
   combat arts:
     axe:
       C+: Wild Abandon
@@ -224,7 +221,7 @@ Caspar:
 Petra:
   abilities:
     authority:
-      C: Battalion Wrath
+      A: Hunting Horn
   combat arts:
     sword:
       C+: Bane of Monsters
@@ -243,7 +240,7 @@ Petra:
 Linhardt:
   abilities:
     authority:
-      C: Battalion Renewal
+      A: White Magic Focus
   spells:
     faith:
       C: Physic
@@ -261,9 +258,8 @@ Linhardt:
 Dimitri:
   abilities:
     authority:
-      C: Battalion Wrath
       C+: Model Leader
-      A: Battalion Vantage
+      A: Lionheart
       S: Rally Charm
   combat arts:
     sword:
@@ -282,7 +278,7 @@ Dimitri:
 Dedue:
   abilities:
     authority:
-      C: Battalion Wrath
+      A: Vassal
   combat arts:
     lance:
       C+: Vengeance
@@ -302,7 +298,7 @@ Dedue:
 Felix:
   abilities:
     authority:
-      C: Battalion Vantage
+      A: Ferocity
   combat arts:
     sword:
       C+: Sunder
@@ -322,7 +318,7 @@ Felix:
 Mercedes:
   abilities:
     authority:
-      C: Battalion Renewal
+      A: Consecrate
   spells:
     faith:
       C: Physic
@@ -336,7 +332,7 @@ Mercedes:
 Ashe:
   abilities:
     authority:
-      C: Battalion Desperation
+      A: Diversion
   combat arts:
     axe:
       C+: Focused Strike
@@ -353,9 +349,8 @@ Annette:
   abilities:
     authority:
       D: Rally Resistance
-      C: Battalion Renewal
       C+: Rally Speed
-      A: Battalion Wrath
+      A: Cheer
       S: Rally Movement
   combat arts:
     axe:
@@ -372,7 +367,7 @@ Annette:
 Sylvain:
   abilities:
     authority:
-      C: Battalion Vantage
+      A: Stampede
   combat arts:
     lance:
       C+: Monster Piercer
@@ -393,7 +388,7 @@ Ingrid:
   abilities:
     authority:
       D: Rally Magic
-      C: Battalion Desperation
+      A: Tactical Retreat
   combat arts:
     sword:
       C+: Hexblade
@@ -414,9 +409,8 @@ Ingrid:
 Claude:
   abilities:
     authority:
-      C: Battalion Desperation
       C+: Model Leader
-      A: Battalion Wrath
+      A: Golden Scheme
       S: Rally Charm
   combat arts:
     sword:
@@ -437,7 +431,7 @@ Claude:
 Lorenz:
   abilities:
     authority:
-      C: Battalion Vantage
+      A: Chivalry
   combat arts:
     lance:
       C+: Frozen Lance
@@ -453,7 +447,7 @@ Lorenz:
 Hilda:
   abilities:
     authority:
-      C: Battalion Wrath
+      A: Full Effort
   combat arts:
     lance:
       C+: Shatter Slash
@@ -471,7 +465,7 @@ Raphael:
   abilities:
     authority:
       D: Rally Strength
-      C: Battalion Wrath
+      A: Full Tummy
   combat arts:
     axe:
       C+: Wild Abandon
@@ -487,7 +481,7 @@ Raphael:
 Lysithea:
   abilities:
     authority:
-      C: Battalion Desperation
+      A: Burn Both Ends
   spells:
     faith:
       C: Seraphim
@@ -503,9 +497,8 @@ Ignatz:
   abilities:
     authority:
       D: Rally Speed
-      C: Battalion Desperation
       C+: Rally Dexterity
-      A: Battalion Vantage
+      A: Bowrange +2
       S: Rally Strength
   combat arts:
     sword:
@@ -524,7 +517,7 @@ Ignatz:
 Marianne:
   abilities:
     authority:
-      C: Battalion Renewal
+      A: Survivor
   combat arts:
     sword:
       C+: Soulblade
@@ -541,7 +534,7 @@ Marianne:
 Leonie:
   abilities:
     authority:
-      C: Battalion Desperation
+      A: Blade Break
   combat arts:
     lance:
       C+: Monster Piercer
@@ -564,7 +557,7 @@ Manuela:
   abilities:
     authority:
       D: Rally Charm
-      C: Battalion Renewal
+      A: Grand Diva
   combat arts:
     sword:
       C+: Hexblade
@@ -580,7 +573,7 @@ Manuela:
 Hanneman:
   abilities:
     authority:
-      C: Battalion Desperation
+      A: Black Magic Focus
   combat arts:
     bow:
       C+: Schism Shot
@@ -599,9 +592,8 @@ Seteth:
   abilities:
     authority:
       D: Rally Defense
-      C: Battalion Wrath
       C+: Model Leader
-      A: Battalion Desperation
+      A: Zephyr
       S: Rally Resistance
   combat arts:
     sword:
@@ -624,7 +616,7 @@ Flayn:
   abilities:
     authority:
       D: Rally Luck
-      C: Battalion Renewal
+      A: Angelic
   combat arts:
     lance:
       C+: Hit and Run
@@ -642,7 +634,7 @@ Flayn:
 Cyril:
   abilities:
     authority:
-      C: Battalion Desperation
+      A: Adaptable
   combat arts:
     lance:
       C+: Vengeance
@@ -661,7 +653,7 @@ Cyril:
 Catherine:
   abilities:
     authority:
-      C: Battalion Vantage
+      A: Unyielding
   combat arts:
     sword:
       C+: Bane of Monsters
@@ -680,7 +672,7 @@ Alois:
   abilities:
     authority:
       D: Rally Strength
-      C: Battalion Wrath
+      A: Punning Blow
   combat arts:
     axe:
       C+: Spike
@@ -698,7 +690,7 @@ Gilbert:
   abilities:
     authority:
       D: Rally Defense
-      C: Battalion Wrath
+      A: Prepared
   combat arts:
     lance:
       C+: Shatter Slash
@@ -714,7 +706,7 @@ Gilbert:
 Shamir:
   abilities:
     authority:
-      C: Battalion Desperation
+      A: Adrenaline
   combat arts:
     lance:
       C+: Hit and Run
@@ -736,7 +728,7 @@ Shamir:
 Yuri:
   abilities:
     authority:
-      C: Battalion Vantage
+      A: All In
       C+: Model Leader
   combat arts:
     sword:
@@ -758,7 +750,7 @@ Balthus:
   abilities:
     authority:
       D: Rally Strength
-      B: Battalion Desperation
+      A: God of Grappling
   combat arts:
     sword:
       C+: Bane Of Monsters
@@ -783,6 +775,7 @@ Constance:
     authority:
       D: Rally Magic
       C: Rally Resistance
+      A: Innovator
   combat arts:
     sword:
       C+: Soulblade
@@ -805,6 +798,7 @@ Hapi:
     authority:
       D: Rally Dexterity
       C: Battalion Wrath
+      A: Lucky Pebble
     reason:
       S: Dark Magic Range +1
       S+: Dark Tomefaire

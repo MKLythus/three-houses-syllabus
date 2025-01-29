@@ -6,22 +6,22 @@ Dorothea,40,20,45,45,45,45,15,35,45,be,Commoner,faith,White Magic Avoid +20,fm,2
 Ferdinand,50,45,20,35,45,35,35,20,40,be,Noble,heavyArmor,Seal Speed,fm,10,dex,c,heavyArmor,Confidence
 Bernadetta,55,35,20,60,50,60,15,25,35,be,Noble,riding,Pass,fm,20,str,c,bow,Persecution Complex
 Caspar,50,50,10,35,40,35,40,5,30,be,Noble,,,fm,10,str,c,brawling,Born Fighter
-Petra,45,40,20,50,60,50,25,10,30,be,Commoner,,,fm,10,dex,c,riding,Hunter's Boon
-Linhardt,45,35,35,55,50,55,25,50,25,be,Noble,,,fm,10,mag,c,reason,Catnap
+Petra,45,40,20,50,60,50,25,10,30,be,Commoner,,,fm,10,dex,c,riding,Hunting Party
+Linhardt,45,35,35,55,50,55,25,50,25,be,Noble,,,fm,10,mag,c,reason,Healer
 Dimitri,55,55,15,55,40,25,35,10,45,bl,Noble,riding,Seal Movement,fm,,,,,Royal Lineage
 Dedue,65,60,5,35,15,35,50,20,30,bl,Commoner,,,fm,,,,,Staunch Shield
-Felix,45,50,25,40,50,40,30,15,20,bl,Noble,reason,Black Magic Crit +10,fm,15,spd,b+,sword,Lone Wolf
+Felix,45,50,25,40,50,40,30,15,20,bl,Noble,reason,Black Magic Crit +10,fm,15,spd,b+,sword,Defiant Avoid
 Mercedes,35,25,50,40,40,30,20,40,40,bl,Commoner,bow,Waning Shot,fm,15,mag,c,bow,Live to Serve
-Ashe,45,35,30,70,50,60,25,35,40,bl,Commoner,lance,Shatter Smash,fm,15,cha,c,lance,Lockpick
+Ashe,45,35,30,70,50,60,25,35,40,bl,Commoner,lance,Shatter Smash,fm,15,cha,c,lance,Stealth
 Annette,30,30,50,50,35,40,20,30,45,bl,Noble,,,fm,10,mag,b+,faith,Perseverance
 Sylvain,55,45,35,30,45,30,40,35,30,bl,Noble,reason,Black Magic Avo +20,fm,25,cha,c,reason,Philanderer
 Ingrid,35,35,35,35,55,45,25,45,45,bl,Noble,,,fm,15,dex,d,flying,Lady Knight
 Claude,45,45,25,60,55,50,25,25,50,gd,Noble,axe,Diamond Axe,fm,,,,,Leicester Lineage
 Lorenz,40,40,40,40,40,40,40,40,40,gd,Noble,,,fm,20,cha,c,reason,Distinguished House
-Raphael,65,55,10,30,25,40,45,0,35,gd,Commoner,,,fm,20,str,c,heavyArmor,Goody Basket
+Raphael,65,55,10,30,25,40,45,0,35,gd,Commoner,,,fm,20,str,c,heavyArmor,Renewal
 Ignatz,40,35,30,75,45,75,35,35,35,gd,Commoner,reason,Seal Strength,fm,10,dex,b,authority,Watchful Eye
 Lysithea,10,10,60,60,55,20,0,25,35,gd,Noble,sword,Soulblade,fm,15,mag,b,faith,Mastermind
-Marianne,30,15,50,35,35,35,10,45,40,gd,Noble,lance,Frozen Lance,fm,10,mag,c,riding,Animal Friend
+Marianne,30,15,50,35,35,35,10,45,40,gd,Noble,lance,Frozen Lance,fm,10,mag,c,riding,Quiet Resolve
 Hilda,50,45,25,30,50,35,35,20,50,gd,Noble,heavyArmor,Seal Speed,fm,30,cha,c,axe,Advocate
 Leonie,40,45,20,50,55,40,40,5,30,gd,Commoner,,,fm,15,str,c,lance,Rivalry
 Seteth,45,45,45,45,35,45,35,15,50,cos,Wyvern Rider,,,fm,,,,,Guardian
@@ -36,4 +36,4 @@ Cyril,50,45,40,60,50,40,30,20,30,cos,Commoner,,,fm,,,,,Aptitude
 Yuri,40,40,35,45,65,65,20,40,60,aw,Noble,bow,Deadeye,fm,15,dex,c,faith,Honorable Spirit
 Balthus,50,50,30,25,25,25,45,30,40,aw,Noble,reason,Black Magic Crit +10,fm,15,str,c,brawling,King Of Grappling
 Constance,5,30,60,30,40,20,10,20,40,aw,Noble,brawling,Mystic Blow,fm,15,mag,d,flying,Circadian Beat
-Hapi,40,40,45,45,35,55,30,50,30,aw,Noble,axe,Exhaustive Strike,fm,10,res,c,riding,Monstrous Appeal
+Hapi,40,40,45,45,35,55,30,50,30,aw,Noble,axe,Exhaustive Strike,fm,10,res,c,riding,Composure

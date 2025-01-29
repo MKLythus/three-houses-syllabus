@@ -91,19 +91,19 @@ Fiendish Blow,"If unit initiates combat, grants Mag +6 during combat","Class: Da
 Darting Blow,"If unit initiates combat, grants AS +6 during combat",Class mastered: Pegasus Knight
 Armored Blow,"If unit initiates combat, grants Def +6 during combat",Class mastered: Armored Knight
 Warding Blow,"If unit initiates combat, grants Res +6 during combat",Class mastered: Mortal Savant
-Officer Duty,Grants Mt +5 with gambits.,Personal: Hubert
-Lady Knight,Grants Mt +3 and Hit +5 with gambits.,Personal: Ingrid
+Officer Duty,"Atk +5, Hit +10 with gambits",Personal: Hubert
+Lady Knight,Hit +15 with gambits,Personal: Ingrid
 Watchful Eye,Grants Hit +20.,Personal: Ignatz
 Distinguished House,Unit deals 2 extra damage while in formation with a battalion.,Personal: Lorenz
 Veteran Knight,Unit takes 2 less damage while in formation with a battalion.,Personal: Gilbert
 Charm,Adjacent allies deal 3 extra damage during combat.,"Class: Lord, Armored Lord, High Lord, Wyvern Master, Emperor, Great Lord, Barbarossa"
-Advocate,Adjacent male allies deal 3 extra damage during combat.,Personal: Hilda
-Guardian,Adjacent female allies deal 3 extra damage during combat.,Personal: Seteth
-Lily's Poise,Adjacent allies take 3 less damage during combat.,Personal: Flayn
-Infirmary Master,Adjacent allies gain Crit Avo +10 during combat.,Personal: Manuela
-Philanderer,"If a female ally is adjacent, unit deals 2 extra damage and takes 2 less damage during combat.",Personal: Sylvain
-Rivalry,"If a male ally is adjacent, unit deals 2 extra damage and takes 2 less damage during combat.",Personal: Leonie
-Born Fighter,Adjacent foes suffer Avo -10 during combat.,Personal: Caspar
+Advocate,Atk +3 to adjacent men,Personal: Hilda
+Guardian,Atk +3 to adjacent women,Personal: Seteth
+Lily's Poise,4 less damage to adjacent allies,Personal: Flayn
+Infirmary Master,Crit Avoid +25 to adjacent,Personal: Manuela
+Philanderer,Dmg dealt/taken +/-3 when women adjacent,Personal: Sylvain
+Rivalry,Dmg dealt/taken +/-3 when men adjacent,Personal: Leonie
+Born Fighter,Avo -20 to adjacent enemies,Personal: Caspar
 Rally Strength,Use Rally to grant Str +4 to an ally.,"Raise Authority skill level for Raphael (C), Ignatz (S) or Alois (D)"
 Rally Magic,Use Rally to grant Mag +4 to an ally.,Raise Authority skill level to D for Hubert or Ingrid
 Rally Speed,Use Rally to grant Spd +4 to an ally.,"Raise Authority skill level for Hubert (S), Annette (C+) or Ignatz (D)"
@@ -132,15 +132,15 @@ Offensive Tactics,Grants Mt +5 and Hit +20 with gambits.,Raise Authority skill l
 Fire,"Allows unit to cast Fire. If Fire is already available, then unit can cast it twice as often.",Class: Mage
 Miasma Δ,"Allows unit to cast Miasma Δ. If Miasma Δ is already available, then unit can cast it twice as often.","Class: Dark Mage, Dark Bishop"
 Heal,"Allows unit to cast Heal. If Heal is already available, then unit can cast it twice as often.",Class: Priest
-Renewal,Unit recovers up to 20% of max HP at the start of each turn.,Class mastered: Bishop
+Renewal,Unit recovers up to 50% of max HP at the start of each turn.,Class mastered: Bishop
 Catnap,"If unit takes no action except Wait, recovers up to 10% of max HP.",Personal: Linhardt
 Goody Basket,Chance to recover up to 10% of max HP at the start of each turn. Trigger % = Lck stat.,Personal: Raphael
-Songstress,Adjacent allies recover up to 10% of max HP at the start of each turn.,Personal: Dorothea
+Songstress,HP +20% to adjacent allies,Personal: Dorothea
 Hunter's Boon,Grants Crit +20 when foe's HP is ≤ 50%.,Personal: Petra
 Poison Strike,"If unit initiates combat and lands a hit, targeted foe loses up to 20% of max HP after combat.",Class mastered: Dark Mage
 Live to Serve,"When healing an ally with white magic, unit recovers the same amount of HP.",Personal: Mercedes
 Lifetaker,Unit recovers HP equal to 50% of damage dealt after defeating a foe.,Class mastered: Dark Bishop
-Survival Instinct,"If unit initiates combat and defeats foe, grants Str/Mag/Dex/Spd +4 for one turn.",Personal: Shamir
+Survival Instinct,"On kill, Str/Spd/Def +5",Personal: Shamir
 Lethality,Chance to instantly kill a foe when dealing damage. Trigger % = 0.25×Dex.,Class mastered: Assassin
 Poison,Chance to inflict poison on foe when dealing damage. Trigger % = Dex stat.,Enemy
 Pavise,Chance to reduce sword/lance/axe/brawling damage by half. Trigger % = Dex stat.,Class mastered: Fortress Knight
@@ -207,15 +207,15 @@ Ancient Dragon Wrath,Calculates damage using the lower of foe's Prt or Rsl.,Enem
 Surging Light,Performs Staggering Blow immediately.,Enemy
 Ancient Dragonskin,"Halves all damage taken, negates some abilities and combat arts, and prevents unit from being moved.",Enemy
 Keen Intuition,Grants Avo +30 during combat with a foe 2 or more spaces away.,
-Staunch Shield,"If unit takes no action except Wait, grants Def +4 for 1 turn.",Personal: Dedue
+Staunch Shield,Def +4 on enemy phase,Personal: Dedue
 Lone Wolf,Unit deals 5 extra damage when no battalion is assigned or when battalion endurance is 0.,Personal: Felix
-Fighting Spirit,Unit takes 5 less damage when no battalion is assigned or when battalion endurance is 0.,Personal: Catherine
+Fighting Spirit,Def/Res +6 when at or below 25% HP,Personal: Catherine
 Confidence,Grants Hit/Avo +15 when unit is at full HP.,Personal: Ferdinand
 Persecution Complex,Grants Atk +5 when unit is not at full HP.,Personal: Bernadetta
 Animal Friend,Unit recovers up to 20% of max HP at the start of each turn when adjacent to a cavalry or flying ally.,Personal: Marianne
-Perseverance,Use Rally to grant Str +4 to an ally.,Personal: Annette
-Crest Scholar,Use Rally to grant Mag +4 to an ally.,Personal: Hanneman
-Compassion,Use Rally to grant Lck +8 to an ally.,Personal: Alois
+Perseverance,Rally +4 Str/Def,Personal: Annette
+Crest Scholar,Rally +4 Mag/Res,Personal: Hanneman
+Compassion,Rally +8 Dex/Luck ,Personal: Alois
 Lockpick,Allows unit to open doors and chests without keys.,Personal: Ashe
 Battalion Vantage,"When foe initiates combat, unit still attacks first if battalion endurance is ≤ 1/3.","Raise Authority skill level to C for protagonist, Edelgard, Felix, Sylvain, Lorenz or Catherine. Raise to A for Dimitri or Ignatz."
 Battalion Wrath,"If foe initiates combat while unit's battalion endurance is ≤ 1/3, grants Crit +50.","Raise Authority skill level to C for Hubert, Bernadetta, Caspar, Petra, Dimitri, Dedue, Hilda, Raphael, Seteth, Alois or Gibert. Raise to A for Annette or Claude."
@@ -229,16 +229,16 @@ Alert Stance,"If unit takes no action except Wait, grants Avo +15 for 1 turn.",R
 Alert Stance+,"If unit takes no action except Wait, grants Avo +30 for 1 turn.",Raise Flying skill level to A+
 Close Counter,Allows unit to counterattack adjacent foes.,Raise Bow skill level to C
 Professor's Guidance+,Unit deals 2 extra damage during combat. Multiplies this unit's and adjacent allies' experience earned by 1.2.,Personal: Protagonist (halfway through Chapter 10's story mission)
-Imperial Lineage+,"If unit takes no action except Wait, grants Res +4 for 1 turn. Multiplies experience earned by 1.2.",Personal: Edelgard (from Part 2)
-Royal Lineage+,Grants Avo +20 while unit is at full HP. Multiplies experience earned by 1.2.,Personal: Dimitri (from Part 2)
-Leicester Lineage+,Allows unit to pass through spaces occupied by foes. Multiplies experience earned by 1.2.,Personal: Claude (from Part 2)
+Imperial Lineage+,Weight -10,Personal: Edelgard (from Part 2)
+Royal Lineage+,Avo +20 when at full HP,Personal: Dimitri (from Part 2)
+Leicester Lineage+,Pass,Personal: Claude (from Part 2)
 Murderous Intent,"If unit initiates combat, grants Hit +20 during combat.",
 Sacred Power,Adjacent allies deal 3 extra damage and take 3 less damage during combat.,"Personal: Rhea, Class mastered: Enlightened One"
 Agarthan Technology,Adjacent foes deal 3 less damage during combat.,Enemy
 Blade Breaker,"If unit damages foe, foe suffers Str/Def -6 for 1 turn after combat.",Personal: Jeralt
 Honorable Spirit,"If unit is not near an ally, grants Atk +3 when in combat with a foe one space away.",Personal: Yuri
-King Of Grappling,Grants Str/Def +6 when HP is < 50%,Personal: Balthus
-Circadian Beat,Grants Str/Mag +3 when indoors and Def/Res +3 when outdoors.,Personal: Constance
+King Of Grappling,Str/Def +4 when at or below 50% HP,Personal: Balthus
+Circadian Beat,Lucky 7,Personal: Constance
 Monstrous Appeal,Makes all attacks effective against monsters and makes it easier for monsters to target unit.,Personal: Hapi
 Duelist's Blow,"If unit initiates combat, grants Avo +20 during combat.",Class mastered: Trickster
 Lucky Seven,"Each turn, grants +5 to one of the following stats: Str, Mag, Spd, Def, Res, Hit, or Avo.",Class: Trickster
@@ -256,3 +256,47 @@ Lancebender,"+Hit, Def, CritAvo",
 Fistbender,"+Hit, Def, CritAvo",
 Tomebender,"+Hit, Def, CritAvo",
 Bowbender,"+Hit, Def, CritAvo",
+Hunting Party,"Atk +3, Hit/Avo +5 on linked attack",
+Healer,Heal +10,
+Defiant Avoid,Avo +30 when at or below 25% HP,
+Stealth,Foes avoid targeting unit when possible,
+Quiet Resolve,Transmute (+3 to all stats when hit w/ magic),
+Composure,Null crit when at full HP,
+Exemplar,"Grants Canto, Desperation, and Vantage while adjacent to allies",
+Twin Crests,Unit can act again if their turn ends while adjacent to an ally.,
+Vassal,Unit's lord receives +3 to all stats and negates one round of attacks per turn,
+Allegro,"Rally applies +4 Spd, +15 Avo, and Fallen Star ",
+Perspective,Atk/Def/Res +4 when not at full HP,
+Fight or Flight,"Hit/Crit +10, Mov +1 when at or below 25 HP%",
+Battle Cry,Atk/Def/Res -4 to adjacent enemies,
+Hunting Horn,Spd +6 and Desperation on linked attack,
+White Magic Focus,"White Magic Uses x2, Range +1",
+Lionheart,Battalion Vantage/Wrath,
+Vassal,Unit's lord receives +3 to all stats and negates one round of attacks per turn,
+Ferocity,Grants Str/Spd +8 when at or below 25% HP,
+Consecrate,Rally applies Blessing and Def/Res +5,
+Diversion,Avo/Crit Avo +50 on linked attack,
+Cheer,Rally applies Stride and +3 to all stats,
+Stampede,Atk +8 when unit initiates while adjacent to mounted ally,
+Tactical Retreat,Mov +5 when Canto activates after killing a foe,
+Golden Scheme,Linked attacks hit lower of Def/Res and grant Crit +20,
+Chivalry,"Against enemies with full HP, Atk +3 and dmg taken -3",
+Full Effort,"Atk +6, Hit/Avo +10 while not adjacent to an ally",
+Full Tummy,Halves all dmg taken when at or above 50 HP%,
+Burn Both Ends,"Spd +12 in combat, but incurs 12 dmg after combat",
+Bowrange +2,Bowrange +2,
+Survivor,"Player phase kills restore 50% dmg as HP, apply Blessing and Res +5",
+Blade Break,Avo +30 vs Sword/Lance/Axe users,
+Grand Diva,Crit Avo -25 to adjacent enemies,
+Black Magic Focus,Black magic gains range +1 and uses x2,
+Zephyr,"A magic axe, rumored to have been crafted by Saint Macuil himself.",
+Angelic,Seraphim gains range +4,
+Adaptable,"Atk +4 on initiation, Spd/Def +4 to self afterward",
+Unyielding,"When HP is ≤ 25%, gain Quick Riposte and dmg taken -6",
+Adrenaline,"On kill, gain Fallen Star and all stats +3",
+Punning Blow,"Foes suffer Def/Res -4 on initiation, and are Rattled on hit",
+Prepared,"Against enemies with full HP, dmg taken -8",
+All In,"At 1 range w/ no adjacent ally, all dmg dealt/taken +8",
+God of Grappling,Crit/Avo +20 when at or below 50 HP%,
+Innovator,All magic Range +1,
+Lucky Pebble,"On kill, Lck% chance to apply +8 Mag for rest of map",
