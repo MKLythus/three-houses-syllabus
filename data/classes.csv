@@ -1,52 +1,53 @@
 name,growths_hp,growths_str,growths_mag,growths_dex,growths_spd,growths_lck,growths_def,growths_res,growths_cha,cert_sword,cert_lance,cert_axe,cert_bow,cert_brawling,cert_reason,cert_faith,cert_authority,cert_heavyArmor,cert_riding,cert_flying,equip_ability1,equip_ability2,equip_ability3,mastered_ability,mastered_combat_art,tier,tags
 Noble,,,,,,,,,5,,,,,,,,,,,,,,,HP +5,,starter,
 Commoner,,,,,,,,,,,,,,,,,,,,,,,,HP +5,,starter,
-Myrmidon,10,,,,5,,,-5,5,D,,,,,,,,,,,,,,Speed +2,Swap,beginner,
-Soldier,10,,,5,,,,-5,5,,D,,,,,,,,,,,,,Defense +2,Reposition,intermediate,
-Fighter,10,5,,,,,,-5,5,,,D,D,D,,,,,,,,,,Strength +2,Shove,beginner,
-Monk,5,,,,,,,5,5,,,,,,D,D,,,,,,,,Magic +2,Draw Back,beginner,
-Lord,20,,,10,,,,,10,,D+,,,,,,C,,,,Charm,,,Resistance +2,Subdue,intermediate,house leader
-Mercenary,20,5,,,5,,,-5,5,C,,,,,,,,,,,,,,Vantage,,intermediate,
-Thief,20,,,10,10,,,,5,C,,,,,,,,,,,Steal,Locktouch,,Steal,,intermediate,
-Armored Knight,20,,,,-10,,10,-5,5,,,C,,,,,,D,,,,,,Armored Blow,,intermediate,
-Cavalier,20,5,,5,-10,,5,,5,,C,,,,,,,,D,,Canto,,,Desperation,,intermediate,
-Brigand,30,10,,,,,,-5,5,,,C,,,,,,,,,,,,Death Blow,,intermediate,
-Archer,5,,,10,,5,,,5,,,,C,,,,,,,,Bowrange +1,,,Hit +20,,intermediate,
-Brawler,30,,-10,10,10,,,-10,5,,,,,C,,,,,,,Unarmed Combat,,,Unarmed Combat,,intermediate,male
-Mage,5,-5,10,5,,,-5,5,5,,,,,,C,,,,,,Fire,,,Fiendish Blow,,intermediate,
-Dark Mage,5,-5,10,5,,,-5,5,,,,,,,C,,,,,,Miasma,Heartseeker,,Poison Strike,,intermediate,"male, dark seal"
-Priest,5,-5,5,5,,,-5,10,10,,,,,,,C,,,,,Heal,White Magic Heal +5,,Miracle,,intermediate,
-Pegasus Knight,15,,,,10,,,5,10,,C,,,,,,,,,D,Canto,Avo +10,,Darting Blow,Triangle Attack,advanced,female
-Armored Lord,20,5,5,,,,5,5,10,,,,,,,,,,,,Charm,Axefaire,,Pomp & Circumstance,,advanced,Edelgard
-High Lord,20,5,,5,,,5,,10,,,,,,,,,,,,Charm,Lancefaire,,Pomp & Circumstance,,advanced,Dimitri
-Wyvern Master,20,10,,,5,,5,,10,,,,,,,,,,,,Charm,Bowfaire,Canto,Pomp & Circumstance,,advanced,Claude
-Hero,30,10,,,10,,,-5,5,B,,C,,,,,,,,,Swordfaire,Vantage,,Defiant Str,,advanced,male
-Swordmaster,25,10,,,20,,,-5,5,A,,,,,,,,,,,Swordfaire,Sword Crit +10,,,Astra,advanced,
-Assassin,20,,,20,20,,,,,B,,,C,,,,,,,,Swordfaire,Locktouch,Stealth,Lethality,Assassinate,advanced,
-Fortress Knight,30,10,,,-10,,15,,5,,,B,,,,,,B,,,Axefaire,Weight -5,,Pavise,,advanced,
-Paladin,30,10,,5,-10,5,5,5,5,,B,,,,,,,,B,,Canto,Lancefaire,Terrain Resistance,Aegis,,advanced,
-Wyvern Rider,30,10,-5,,,,5,-5,5,,,B,,,,,,,,C,Canto,Axefaire,,Seal Defense,,advanced,
-Warrior,40,15,-5,,,,,,5,,,A,,,,,,,,,Axefaire,Axe Crit +10,,Wrath,,advanced,
-Sniper,10,5,,20,,10,,,5,,,,A,,,,,,,,Bowfaire,Bowrange +1,,,Hunters Volley,advanced,
-Grappler,40,10,,10,10,,,,5,,,,,A,,,,,,,Fistfaire,Unarmed Combat,,Tomebreaker,Fierce Iron Fist,advanced,male
-Warlock,10,,10,,,,-5,5,5,,,,,,A,,,,,,Black Tomefaire,Black Magic Uses x2,,Bowbreaker,,advanced,
-Dark Bishop,10,,10,,,,-5,5,,,,,,,A,,,,,,Miasma,Fiendish Blow,Heartseeker,Lifetaker,,advanced,"male, dark seal"
-Bishop,10,,10,,,10,-5,5,10,,,,,,,A,,,,,White Magic Uses x2,White Magic Heal +10,Terrain Resistance,Renewal,,advanced,
-Enlightened One,20,10,10,,,,5,,5,,,,,,,,,,,,Swordfaire,Terrain Resistance,,Sacred Power,,master,Byleth
-Emperor,30,10,10,,,,5,5,10,,,,,,,,,,,,Charm,Axefaire,,,Flickering Flower,master,Edelgard
-Great Lord,30,10,,10,,,5,,10,,,,,,,,,,,,Charm,Lancefaire,,,Paraselene,master,Dimitri
-Barbarossa,30,15,,,10,,5,,10,,,,,,,,,,,,Charm,Bowfaire,Canto,,Wind God,master,Claude
-Falcon Knight,30,10,,,20,,,5,10,C,A,,,,,,,,,B+,Canto,Lancefaire,Avo +10,Defiant Avo,,master,female
-Wyvern Lord,30,15,-5,,10,,5,,5,,C,A,,,,,,,,A,Canto,Axefaire,Avo +10,Defiant Crit,,master,
-Mortal Savant,20,10,10,,-10,10,,,5,A,,,,,B+,,,,,,Swordfaire,Black Tomefaire,,Warding Blow,,master,
-Great Knight,30,10,,,-10,,5,-5,5,,,B+,,,,,,A,B+,,Canto,Lancefaire,Axefaire,Defiant Def,,master,
-Bow Knight,10,,,,-5,,,,5,,C,,A,,,,,,A,,Canto,Bowfaire,Bowrange +2,Defiant Spd,,master,
-Dark Knight,10,5,10,,-5,,5,10,5,,C,,,,B+,,,,A,,Canto,Black Tomefaire,Dark Tomefaire,Seal Resistance,,master,
-Holy Knight,10,,10,,-5,10,5,10,10,,C,,,,,B+,,,A,,Canto,White Tomefaire,Terrain Resistance,Defiant Res,,master,
-War Master,40,15,,,10,,,,5,,,A,,A,,,,,,,Fistfaire,Axefaire,Crit +20,Quick Riposte,War Masters Strike,master,male
-Gremory,10,,10,10,,,,5,10,,,,,,A,A,,,,,Black Magic Uses x2,Dark Magic Uses x2,White Magic Uses x2,Defiant Mag,,master,female
-Dancer,20,-5, , , , ,-5,-5,10,,,,,,,,,,,,Dance,,,Special Dance,,event,
-Trickster,20,,,15,20,10,,5,,B,,,,,,B,,,,,Locktouch,Stealth,Lucky Seven,Duelist's Blow,Foul Play,advanced,
-War Monk/Cleric,40,10,5,10,,,,5,5,,,,,B+,,C+,,,,,Fistfaire,Unarmed Combat,Heal,Brawl Avo +20,Pneuma Gale,advanced,
-Dark Flier,20,,,,10,,,10,10,,,,,,B+,,,,,C,Canto,Black Tomefaire,,Transmute,,advanced,female
-Valkyrie,5,,5,,-5,5,5,10,10,,,,,,B,,,,B,,Black Magic Range +1,Dark Magic Range +1,,Uncanny Blow,,advanced,female
+Myrmidon,5,,,,5,,,-5,5,D,D,,D,,,,,,,,,,,Speed +2,Swap,beginner,
+Soldier,25,10,,,,,10,-10,5,,C,,,,,,,,,,,,,Bastion Blow,Reposition,intermediate,
+Fighter,5,5,,,,,,-5,5,,,D,D,D,,,,,,,,,,Strength +2,Reposition,beginner,
+Monk,,,5,,,,,,5,,,,,,D,D,,,,,,,,Magic +2,Draw Back,beginner,
+Lord,20,5,5,5,,5,,,5,,D+,,,,D,,,,,,Charm,,,Sacred Power,Subdue,intermediate,house leader
+Mercenary,25,5,,5,5,5,5,-10,5,C,,,,,,,,,,,,,,Darting Blow,,intermediate,
+Thief,15,,,10,20,10,-10,-10,5,D+,,,D+,,,,,,,,Steal,Locktouch,,Duelist's Blow,,intermediate,
+Armored Knight,40,20,,,-25,,35,-20,5,,,C,,,,,,D,,,,,,Defender,,intermediate,
+Cavalier,25,5,,10,-10,10,10,,5,,C,,,,,,,,D+,,Canto,,,Flanking Strike,,intermediate,
+Brigand,30,15,,-10,,-10,5,-10,5,,,C,,,,,,,,,,,,Death Blow,,intermediate,
+Archer,15,5,,20,5,20,,-10,5,,,,C,,,,,,,,Bowrange +1,,,Uncanny Blow,,intermediate,
+Brawler,15,10,-10,10,10,,,-10,5,,,,,C,,,,,,,Unarmed Combat,,,Brawl Avo +20,,intermediate,male
+Mage,5,-5,10,10,5,10,-10,10,5,,,,,,C,,,,,,Fire,,,Darting Blow,,intermediate,
+Dark Mage,10,-5,20,-5,-10,-5,5,15,5,,,,,,C,,,,,,Miasma,Heartseeker,,Black Tomefaire,,intermediate,"male, dark seal"
+Priest,5,-5,5,20,,20,-10,20,5,,,,,,,C,,,,,Heal,White Magic Heal +5,,Uncanny Blow,,intermediate,
+Pegasus Knight,20,,,,20,,-10,,5,,B,,,,,,,,,C+,Canto,Avo +10,,Lance Avo +20,Triangle Attack,advanced,female
+Armored Lord,40,15,15,-10,-10,-10,20,-10,5,,,,,,,,,,,,Charm,Axefaire,,Lifetaker,,advanced,Edelgard
+High Lord,30,15,,5,5,5,5,,5,,,,,,,,,,,,Charm,Lancefaire,,Lifetaker,,advanced,Dimitri
+Wyvern Master,20,10,,,10,,,-10,5,,,,,,,,,,,,Charm,Bowfaire,Canto,Lifetaker,,advanced,Claude
+Hero,30,10,,10,10,10,10,-10,5,B,,C+,,,,,,,,,Swordfaire,Vantage,,Lifetaker,Spike,advanced,male
+Swordmaster,25,5,,10,20,10,5,-10,5,A,,,,,,,,,,,Swordfaire,Sword Crit +10,,Defiant Avo,"Haze Slice, Astra",advanced,
+Assassin,20,,,20,30,20,-10,-10,5,B,,,C+,,,,,,,,Swordfaire,Locktouch,Stealth,Stealth,Sunder+Crit,advanced,
+Fortress Knight,45,25,,,-20,,45,-20,5,,,B,,,,,,C+,,,Axefaire,Weight -5,,Survival Instinct,Armored Strike,advanced,
+Paladin,30,10,,15,-10,15,15,5,5,,B,,,,,,,,B,,Canto,Lancefaire,Terrain Resistance,Pavise,Glowing Ember,advanced,
+Wyvern Rider,30,15,-5,-5,-5,-5,15,-10,5,,,B,,,,,,,,C+,Canto,Axefaire,,Agarthan Technology,Triangle Attack,advanced,
+Warrior,40,20,-5,,,,10,-10,5,,,A,,,,,,,,,Axefaire,Axe Crit +10,,Axe Crit +10,Diamond Axe,advanced,
+Sniper,20,10,,25,10,25,5,-10,5,,,,A,,,,,,,,Bowfaire,Bowrange +1,,Bow Crit +10,Sky’s Bane,advanced,
+Grappler,20,15,,5,15,5,5,-10,5,,,,,A,,,,,,,Fistfaire,Unarmed Combat,,Brawl Crit +10,Mighty Blow,advanced,male
+Warlock,10,,15,15,10,15,-10,15,5,,,,,,A,,,,,,Black Tomefaire,Black Magic Uses x2,,Flanking Shot,,advanced,
+Dark Bishop,20,,25,,-10,,10,20,5,,,,,,A,,,,,,Miasma,Fiendish Blow,Heartseeker,Survival Impulse,,advanced,"male, dark seal"
+Bishop,10,,10,25,5,25,-10,25,5,,,,,,,A,,,,,White Magic Uses x2,White Magic Heal +10,Terrain Resistance,Cunning Blow,,advanced,
+Enlightened One,30,10,10,,,,5,5,5,,,,,,,,,,,,Swordfaire,Terrain Resistance,,Sacred Power,,master,Byleth
+Emperor,45,20,20,-10,-10,-10,30,-10,5,,,,,,,,,,,,Charm,Axefaire,,Axefaire,Flickering Flower,master,Edelgard
+Great Lord,35,20,,10,10,10,10,,5,,,,,,,,,,,,Charm,Lancefaire,,Lancefaire,Paraselene,master,Dimitri
+Barbarossa,25,15,,,15,,,-10,5,,,,,,,,,,,,Charm,Bowfaire,Canto,Bowfaiire,Wind God,master,Claude
+Falcon Knight,25,5,,,25,,-10,5,5,C+,A,,,,,,,,,A,Canto,Lancefaire,Avo +10,Lance Crit +10,,master,female
+Wyvern Lord,35,20,-5,,-5,,20,-10,5,,C+,A,,,,,,,,A,Canto,Axefaire,Avo +10,Axe Crit+10,,master,
+Mortal Savant,15,15,15,15,20,15,-10,-5,5,A,,,,,A,,,,,,Swordfaire,Black Tomefaire,,Defiant Crit,,master,
+Great Knight,45,25,,,-20,,50,-20,5,,,B+,,,,,,B+,B,,Canto,Lancefaire,Axefaire,Defense +2,,master,
+Bow Knight,30,10,,25,-5,25,10,,5,,C+,,A,,,,,,A,,Canto,Bowfaire,Bowrange +2,Aegis,,master,
+Dark Knight,25,10,10,10,-5,10,10,10,5,,C,,,,B+,,,,B+,,Canto,Black Tomefaire,Dark Tomefaire,Black Magic Crit +10,,master,
+Holy Knight,15,,5,25,5,25,-5,30,5,,C,,,,,B+,,,B+,,Canto,White Tomefaire,Terrain Resistance,White Magic Crit +10,,master,
+War Master,30,25,,10,10,10,15,-10,5,,,A,,A,,,,,,,Fistfaire,Axefaire,Crit +20,War Master’s Strike,Fierce Iron Fist,master,male
+Gremory,15,,20,20,15,20,-10,20,5,,,,,,A,A,,,,,Black Magic Uses x2,Dark Magic Uses x2,White Magic Uses x2,Spectral Shield,,master,female
+Dancer,15,5,5,5,5,5,5,5,25,,,,,,,,,,,,Dance,,,Special Dance,,event,
+Trickster,15,5,5,20,20,20,-10,-5,5,B,,,,,C+,,,,,,Locktouch,Stealth,Lucky Seven,Smoke Bomb,Hexblade,advanced,
+War Monk/Cleric,25,10,5,5,5,5,5,5,5,,,,,B+,C+,,,,,,Fistfaire,Unarmed Combat,Heal,Bastion Blow,Pneuma Gale,advanced,
+Dark Flier,5,,10,,15,,-15,10,5,,,,,,C+,C+,,,,C+,Canto,Black Tomefaire,,Duelist's Blow,,advanced,female
+Valkyrie,15,,10,15,-5,15,5,10,5,,,,,,C+,C+,,,C+,,Black Magic Range +1,Dark Magic Range +1,,Aegis,,advanced,female
+Death Knight,25,10,10,-15,-5,-15,10,10,5,,,,,,,,,,,,,,,,,advanced,
