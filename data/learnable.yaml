@@ -38,12 +38,11 @@ UNIVERSAL:
       S: White Magic Range +1
       S+: White Tomefaire
     authority:
-      B: Defensive Tactics
-      S+: Offensive Tactics
+      A+: Offensive Tactics
     heavyArmor:
       C: Weight -3
-      A+: Weight -5
-      S+: Armored Effect Null
+      A: Weight -5
+      S: Armored Effect Null
     riding:
       C: Dexterity +4
       A+: Movement +1
@@ -55,21 +54,22 @@ UNIVERSAL:
   combat arts:
     sword:
       D: Wrath Strike
-      C: Grounder 
+      D+: Grounder
     lance:
       D: Tempest Lance
-      C: Knightkneeler
+      D+: Knightkneeler
     axe:
       D: Smash
-      C: Helm Splitter
+      D+: Helm Splitter
     bow:
       D: Curved Shot
     brawling:
       D: Fading Blow
-      C: Rushing Blow
+      D+: Rushing Blow
       B: Healing Focus
     heavyArmor:
-      B: Smite
+      D: Smite
+      B: Reposition
   spells:
     faith:
       D: Heal
