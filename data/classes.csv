@@ -2,7 +2,7 @@ name,growths_hp,growths_str,growths_mag,growths_dex,growths_spd,growths_lck,grow
 Noble,,,,,,,,,5,,,,,,,,,,,,,,,HP +5,,starter,
 Commoner,,,,,,,,,,,,,,,,,,,,,,,,HP +5,,starter,
 Myrmidon,10,,,,5,,,-5,5,D,,,,,,,,,,,,,,Speed +2,Swap,beginner,
-Soldier,10,,,5,,,,-5,5,,D,,,,,,,,,,,,,Defense +2,Reposition,beginner,
+Soldier,10,,,5,,,,-5,5,,D,,,,,,,,,,,,,Defense +2,Reposition,intermediate,
 Fighter,10,5,,,,,,-5,5,,,D,D,D,,,,,,,,,,Strength +2,Shove,beginner,
 Monk,5,,,,,,,5,5,,,,,,D,D,,,,,,,,Magic +2,Draw Back,beginner,
 Lord,20,,,10,,,,,10,,D+,,,,,,C,,,,Charm,,,Resistance +2,Subdue,intermediate,house leader
@@ -16,7 +16,7 @@ Brawler,30,,-10,10,10,,,-10,5,,,,,C,,,,,,,Unarmed Combat,,,Unarmed Combat,,inter
 Mage,5,-5,10,5,,,-5,5,5,,,,,,C,,,,,,Fire,,,Fiendish Blow,,intermediate,
 Dark Mage,5,-5,10,5,,,-5,5,,,,,,,C,,,,,,Miasma,Heartseeker,,Poison Strike,,intermediate,"male, dark seal"
 Priest,5,-5,5,5,,,-5,10,10,,,,,,,C,,,,,Heal,White Magic Heal +5,,Miracle,,intermediate,
-Pegasus Knight,15,,,,10,,,5,10,,C,,,,,,,,,D,Canto,Avo +10,,Darting Blow,Triangle Attack,intermediate,female
+Pegasus Knight,15,,,,10,,,5,10,,C,,,,,,,,,D,Canto,Avo +10,,Darting Blow,Triangle Attack,advanced,female
 Armored Lord,20,5,5,,,,5,5,10,,,,,,,,,,,,Charm,Axefaire,,Pomp & Circumstance,,advanced,Edelgard
 High Lord,20,5,,5,,,5,,10,,,,,,,,,,,,Charm,Lancefaire,,Pomp & Circumstance,,advanced,Dimitri
 Wyvern Master,20,10,,,5,,5,,10,,,,,,,,,,,,Charm,Bowfaire,Canto,Pomp & Circumstance,,advanced,Claude
