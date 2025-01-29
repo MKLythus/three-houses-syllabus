@@ -128,7 +128,7 @@ Fistbreaker,Grants Hit/Avo +20 when using a bow against brawlers.,Raise Bow skil
 Tomebreaker,Grants Hit/Avo +20 when brawling against magic users.,Raise Brawling skill level to B
 Model Leader,Doubles experience earned for battalions.,"Raise Authority skill level to C+ for protagonist, Edelgard, Dimitri, Claude or Seteth"
 Defensive Tactics,Battalion endurance takes half damage.,Raise Authority skill level to B
-Offensive Tactics,Grants Mt +5 and Hit +20 with gambits.,Raise Authority skill level to S+
+Offensive Tactics,Grants Mt +20 and Hit +20 with gambits.,Raise Authority skill level to S+
 Fire,"Allows unit to cast Fire. If Fire is already available, then unit can cast it twice as often.",Class: Mage
 Miasma Δ,"Allows unit to cast Miasma Δ. If Miasma Δ is already available, then unit can cast it twice as often.","Class: Dark Mage, Dark Bishop"
 Heal,"Allows unit to cast Heal. If Heal is already available, then unit can cast it twice as often.",Class: Priest
