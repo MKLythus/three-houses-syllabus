@@ -73,7 +73,6 @@ UNIVERSAL:
   spells:
     faith:
       D: Heal
-      D+: Nosferatu
 
 Byleth:
   abilities:
@@ -90,7 +89,9 @@ Byleth:
       B: Nimble Combo
   spells:
     faith:
-      C: Recover
+      D+: Seraphim
+      C+: Shine
+      B+: Displace
       A: Aura
     reason:
       D: Fire
@@ -115,11 +116,13 @@ Edelgard:
       A: Armored Strike
   spells:
     faith:
-      C: Recover
-      B: Seraphim
+      D+: Nosferatu
+      C: Seraphim
+      C+: Recover
     reason:
       D: Fire
-      C: Bolganone
+      D+: Swarm
+      C: Banshee
       B: Luna
       A: Hades
 Hubert:
@@ -135,7 +138,9 @@ Hubert:
       A: Schism Shot
   spells:
     faith:
-      C: Recover
+      D+: Nosferatu
+      C: Seraphim
+      C+: Recover
     reason:
       D: Miasma
       D+: Mire
@@ -153,7 +158,9 @@ Dorothea:
       B+: Sword Dance
   spells:
     faith:
-      C: Physics
+      D+: Seraphim
+      C: Physic
+      A: Frost
     reason:
       D: Thunder
       C: Thoron
@@ -176,8 +183,9 @@ Ferdinand:
       A: Armored Strike
   spells:
     faith:
-      C: Ward
-      B: Restore
+      D+: Nosferatu
+      C: Restore
+      B: Zeal
     reason:
       D: Thunder
       D+: Fire
@@ -195,10 +203,10 @@ Bernadetta:
       A: Encloser
   spells:
     faith:
+      D+: Nosferatu
       C: Physic
-      A: Rescue
     reason:
-      D: Blizzard
+      D: Fire
       D+: Thunder
       C: Thoron
       A: Fimbulvetr
@@ -215,7 +223,9 @@ Caspar:
       A: Mighty Blow
   spells:
     faith:
-      C: Recover
+      D+: Nosferatu
+      C: Seraphim
+      C+: Recover
     reason:
       D: Fire
       C: Bolganone
@@ -235,7 +245,9 @@ Petra:
       A: Warning Shot
   spells:
     faith:
-      C: Restore
+      D+: Nosferatu
+      C: Seraphim
+      C+: Restore
     reason:
       D: Wind
       C: Sagittae
@@ -245,8 +257,9 @@ Linhardt:
       A: White Magic Focus
   spells:
     faith:
-      C: Physic
-      B: Restore
+      D+: Physic
+      C: Seraphim
+      B: Shine
       A: Warp
     reason:
       D: Wind
@@ -272,7 +285,9 @@ Dimitri:
       A: Glowing Ember
   spells:
     faith:
-      C: Recover
+      D+: Nosferatu
+      C: Seraphim
+      C+: Recover
       A: Aura
     reason:
       D: Thunder
@@ -292,7 +307,9 @@ Dedue:
       A: Mighty Blow
   spells:
     faith:
-      C: Recover
+      D+: Nosferatu
+      C: Seraphim
+      C+: Recover
     reason:
       D: Fire
       C: Bolganone
@@ -312,7 +329,8 @@ Felix:
       A: Nimble Combo
   spells:
     faith:
-      C: Recover
+      D+: Nosferatu
+      C: Seraphim
       B: Restore
     reason:
       D: Thunder
@@ -323,9 +341,10 @@ Mercedes:
       A: Consecrate
   spells:
     faith:
+      D+: Seraphim
       C: Physic
-      B: Restore
-      A: Fortify
+      B: Fortify
+      A: Frost
     reason:
       D: Fire
       D+: Thunder
@@ -344,10 +363,14 @@ Ashe:
       A: Warning Shot
   spells:
     faith:
+      D+: Nosferatu
       C: Physic
+      C+: Seraphim
+      B: Zeal
     reason:
       D: Wind
       C: Cutting Gale
+      A: Fimbulvetr
 Annette:
   abilities:
     authority:
@@ -360,13 +383,16 @@ Annette:
       C+: Lightning Axe
   spells:
     faith:
-      C: Recover
-      A: Abraxas
+      D+: Seraphim
+      C: Zeal
+      B: Shine
+      A: Displace
     reason:
       D: Wind
       C: Bolganone
       B: Sagittae
       A: Ragnarok
+      A+: Bolting
 Sylvain:
   abilities:
     authority:
@@ -380,8 +406,10 @@ Sylvain:
       A: Lightning Axe
   spells:
     faith:
+      D+: Nosferatu
       C: Physic
-      B: Seraphim
+      C+: Seraphim
+      A: Frost
     reason:
       D: Fire
       C: Bolganone
@@ -401,10 +429,12 @@ Ingrid:
       A: Frozen Lance
   spells:
     faith:
+      D+: Nosferatu
       C: Physic
       B: Seraphim
+      A: Zeal
     reason:
-      D: Blizzard
+      D: Thunder
       C: Thoron
       A: Fimbulvetr
 
@@ -425,8 +455,10 @@ Claude:
       A: Encloser
   spells:
     faith:
-      C: Physic
-      A: Silence
+      D+: Nosferatu
+      C: Seraphim
+      C+: Recover
+      A: Abraxas
     reason:
       D: Wind
       C: Sagittae
@@ -442,8 +474,10 @@ Lorenz:
       A: Glowing Ember
   spells:
     faith:
-      C: Physic
-      B: Ward
+      D+: Seraphim
+      C: Shine
+      B: Frost
+      B+: Recover
     reason:
       D: Fire
       C: Sagittae
@@ -462,7 +496,10 @@ Hilda:
       A: Diamond Axe
   spells:
     faith:
-      C: Recover
+      D+: Nosferatu
+      C: Seraphim
+      B: Zeal
+      B+: Recover
     reason:
       D: Thunder
       C: Thoron
@@ -481,7 +518,9 @@ Raphael:
       A: Draining Blow
   spells:
     faith:
-      C: Recover
+      D+: Nosferatu
+      C: Seraphim
+      C+: Recover
     reason:
       D: Fire
       C: Bolganone
@@ -491,9 +530,10 @@ Lysithea:
       A: Burn Both Ends
   spells:
     faith:
-      C: Seraphim
+      D+: Seraphim
       B: Warp
-      A: Abraxas
+      B+: Abraxas
+      A: Aura
     reason:
       D: Miasma
       D+: Swarm
@@ -516,10 +556,11 @@ Ignatz:
       A: Ward Arrow
   spells:
     faith:
+      D+: Nosferatu
       C: Physic
-      B: Ward
+      C+: Zeal
     reason:
-      D: Blizzard
+      D: Fire
       C: Cutting Gale
       A: Fimbulvetr
 Marianne:
@@ -531,11 +572,12 @@ Marianne:
       C+: Soulblade
   spells:
     faith:
-      C: Physic
-      B: Silence
-      A: Aura
+      D+: Physic
+      C: Seraphim
+      B: Aura
+      B+: Frost
     reason:
-      D: Blizzard
+      D: Thunder
       C: Thoron
       B: Cutting Gale
       A: Fimbulvetr
@@ -552,8 +594,9 @@ Leonie:
       A: Point-Blank Volley
   spells:
     faith:
+      D+: Nosferatu
       C: Physic
-      B: Restore
+      C+: Restore
     reason:
       D: Fire
       C: Bolganone
@@ -571,8 +614,9 @@ Manuela:
       C+: Hexblade
   spells:
     faith:
-      C: Ward
-      B: Silence
+      D+: Zeal
+      C: Seraphim
+      B+: Abraxas
       A: Warp
     reason:
       D: Thunder
@@ -588,8 +632,9 @@ Hanneman:
       A: Ward Arrow
   spells:
     faith:
-      C: Recover
-      B: Ward
+      D+: Nosferatu
+      C+: Seraphim
+      B: Zeal
     reason:
       D: Wind
       C: Sagittae
@@ -614,7 +659,10 @@ Seteth:
       A: Swift Strikes
   spells:
     faith:
-      C: Recover
+      D+: Nosferatu
+      C: Seraphim
+      C+: Zeal
+      B: Recover
     reason:
       D: Wind
       C: Cutting Gale
@@ -631,8 +679,9 @@ Flayn:
       A: Frozen Lance
   spells:
     faith:
-      C: Restore
-      B: Rescue
+      D+: Restore
+      C: Seraphim
+      C+: Rescue
       A: Fortify
     reason:
       D: Wind
@@ -654,10 +703,13 @@ Cyril:
       C+: Point-Blank Volley
   spells:
     faith:
-      C: Recover
+      D+: Nosferatu
+      C: Seraphim
+      C+: Recover
     reason:
       D: Wind
       C: Cutting Gale
+      A: Excalibur
 Catherine:
   abilities:
     authority:
@@ -671,7 +723,9 @@ Catherine:
       A: Bombard
   spells:
     faith:
-      C: Recover
+      D+: Nosferatu
+      C: Seraphim
+      C+: Recover
     reason:
       D: Fire
       C: Bolganone
@@ -690,7 +744,9 @@ Alois:
       A: Mighty Blow
   spells:
     faith:
-      C: Recover
+      D+: Nosferatu
+      C: Seraphim
+      C+: Recover
     reason:
       D: Fire
       C: Bolganone
@@ -707,7 +763,9 @@ Gilbert:
       C+: Spike
   spells:
     faith:
-      C: Ward
+      D+: Nosferatu
+      C: Seraphim
+      C+: Zeal
     reason:
       D: Thunder
       C: Thoron
@@ -724,9 +782,11 @@ Shamir:
       A: Encloser
   spells:
     faith:
+      D+: Nosferatu
       C: Physic
+      A: Frost
     reason:
-      D: Blizzard
+      D: Thunder
       D+: Wind
       C: Sagittae
       A: Fimbulvetr
@@ -745,9 +805,9 @@ Yuri:
   spells:
     faith:
       D: Heal
-      D+: Nosferatu
+      D+: Seraphim
       C: Recover
-      B: Silence
+      B: Shine
       A: Aura
     reason:
       D: Wind
@@ -772,8 +832,9 @@ Balthus:
     faith:
       D: Heal
       D+: Nosferatu
-      B: Seraphim
-      A: Restore
+      C: Seraphim
+      B: Restore
+      B+: Zeal
     reason:
       D: Fire
       C: Bolganone
@@ -792,7 +853,7 @@ Constance:
     faith:
       D: Heal
       D+: Nosferatu
-      C: Ward
+      C: Seraphim
       B: Rescue
       A: Abraxas
     reason:
@@ -813,9 +874,9 @@ Hapi:
   spells:
     faith:
       D: Heal
-      D+: Nosferatu
+      D+: Seraphim
       C: Physic
-      B: Seraphim
+      B: Shine
       A: Warp
     reason:
       D: Miasma
