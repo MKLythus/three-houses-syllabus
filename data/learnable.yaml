@@ -2,28 +2,39 @@
 UNIVERSAL:
   abilities:
     sword:
-      B: Axebreaker
+      C: Axebender
+      B: Axekiller
       S: Sword Crit +10
       S+: Swordfaire
     lance:
-      B: Swordbreaker
+      C: Swordbender
+      B: Swordkiller
       S: Lance Crit +10
       S+: Lancefaire
     axe:
-      B: Lancebreaker
+      C: Lancebender
+      B: Lancekiller
       S: Axe Crit +10
       S+: Axefaire
     bow:
+      C: Fistbender
       B: Close Counter
+      A: Fistkiller
       S: Bow Crit +10
       S+: Bowfaire
     brawling:
+      C: Tomebender
+      B: Tomekiller
       S: Brawl Crit +10
       S+: Fistfaire
     reason:
+      C: Bowbender
+      B: Bowkiller
       S: Black Magic Range +1
       S+: Black Tomefaire
     faith:
+      C: Bowbender
+      B: Bowkiller
       S: White Magic Range +1
       S+: White Tomefaire
     authority:

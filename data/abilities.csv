@@ -244,3 +244,15 @@ Duelist's Blow,"If unit initiates combat, grants Avo +20 during combat.",Class m
 Lucky Seven,"Each turn, grants +5 to one of the following stats: Str, Mag, Spd, Def, Res, Hit, or Avo.",Class: Trickster
 Transmute,"If unit is hit with a magic attack during enemy phase, grants +3 to all stats until next player phase ends.","Class: Dark Flier, Class mastered: Dark Flier"
 Uncanny Blow,"If unit initiates combat, grants Hit +30 during combat.",Class mastered: Valkyrie
+Axekiller,"+Atk, Avo, Crit",
+Swordkiller,"+Atk, Avo, Crit",
+Lancekiller,"+Atk, Avo, Crit",
+Fistkiller,"+Atk, Avo, Crit",
+Tomekiller,"+Atk, Avo, Crit",
+Bowkiller,"+Atk, Avo, Crit",
+Axebender,"+Hit, Def, CritAvo",
+Swordbender,"+Hit, Def, CritAvo",
+Lancebender,"+Hit, Def, CritAvo",
+Fistbender,"+Hit, Def, CritAvo",
+Tomebender,"+Hit, Def, CritAvo",
+Bowbender,"+Hit, Def, CritAvo",
