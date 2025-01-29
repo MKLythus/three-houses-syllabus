@@ -1,39 +1,39 @@
 name,growths_hp,growths_str,growths_mag,growths_dex,growths_spd,growths_lck,growths_def,growths_res,growths_cha,house,startingClass,buddingTalentSkill,buddingTalent,sex,recruit_statMin,recruit_stat,recruit_skillMin,recruit_skill,personalAbility
-Byleth,45,50,50,50,45,50,30,30,50,,,faith,White Magic Avoid +20,fm,,,,,Professor's Guidance
-Edelgard,50,50,50,50,35,30,40,40,55,be,Noble,reason,Black Magic Crit +10,fm,,,,,Imperial Lineage
+Byleth,45,50,50,50,45,50,30,30,50,,,faith,Mana Inverter,fm,,,,,Professor's Guidance
+Edelgard,50,50,50,50,35,30,40,40,55,be,Noble,reason,Fell Swap,fm,,,,,Imperial Lineage
 Hubert,40,30,55,30,30,30,30,35,35,be,Noble,lance,Frozen Lance,fm,,,,,Officer Duty
-Dorothea,40,20,45,45,45,45,15,35,45,be,Commoner,faith,White Magic Avoid +20,fm,25,cha,b,authority,Songstress
-Ferdinand,50,45,20,35,45,35,35,20,40,be,Noble,heavyArmor,Seal Speed,fm,10,dex,c,heavyArmor,Confidence
-Bernadetta,55,35,20,60,50,60,15,25,35,be,Noble,riding,Pass,fm,20,str,c,bow,Persecution Complex
-Caspar,50,50,10,35,40,35,40,5,30,be,Noble,,,fm,10,str,c,brawling,Born Fighter
-Petra,45,40,20,50,60,50,25,10,30,be,Commoner,,,fm,10,dex,c,riding,Hunting Party
+Dorothea,40,20,45,45,45,45,15,35,45,be,Commoner,faith,Sly Swap,fm,25,cha,b,authority,Songstress
+Ferdinand,50,45,20,35,45,35,35,20,40,be,Noble,heavyArmor,Sturdy Swap,fm,10,dex,c,heavyArmor,Confidence
+Bernadetta,55,35,20,60,50,60,15,25,35,be,Noble,riding,Hasty Swap,fm,20,str,c,bow,Persecution Complex
+Caspar,50,50,10,35,40,35,40,5,30,be,Noble,bow,Sly Swap,fm,10,str,c,brawling,Born Fighter
+Petra,45,40,20,50,60,50,25,10,30,be,Commoner,brawling,Bold Swap,fm,10,dex,c,riding,Hunting Party
 Linhardt,45,35,35,55,50,55,25,50,25,be,Noble,,,fm,10,mag,c,reason,Healer
-Dimitri,55,55,15,55,40,25,35,10,45,bl,Noble,riding,Seal Movement,fm,,,,,Royal Lineage
-Dedue,65,60,5,35,15,35,50,20,30,bl,Commoner,,,fm,,,,,Staunch Shield
-Felix,45,50,25,40,50,40,30,15,20,bl,Noble,reason,Black Magic Crit +10,fm,15,spd,b+,sword,Defiant Avoid
-Mercedes,35,25,50,40,40,30,20,40,40,bl,Commoner,bow,Waning Shot,fm,15,mag,c,bow,Live to Serve
-Ashe,45,35,30,70,50,60,25,35,40,bl,Commoner,lance,Shatter Smash,fm,15,cha,c,lance,Stealth
-Annette,30,30,50,50,35,40,20,30,45,bl,Noble,,,fm,10,mag,b+,faith,Perseverance
-Sylvain,55,45,35,30,45,30,40,35,30,bl,Noble,reason,Black Magic Avo +20,fm,25,cha,c,reason,Philanderer
-Ingrid,35,35,35,35,55,45,25,45,45,bl,Noble,,,fm,15,dex,d,flying,Lady Knight
-Claude,45,45,25,60,55,50,25,25,50,gd,Noble,axe,Diamond Axe,fm,,,,,Leicester Lineage
-Lorenz,40,40,40,40,40,40,40,40,40,gd,Noble,,,fm,20,cha,c,reason,Distinguished House
-Raphael,65,55,10,30,25,40,45,0,35,gd,Commoner,,,fm,20,str,c,heavyArmor,Renewal
-Ignatz,40,35,30,75,45,75,35,35,35,gd,Commoner,reason,Seal Strength,fm,10,dex,b,authority,Watchful Eye
-Lysithea,10,10,60,60,55,20,0,25,35,gd,Noble,sword,Soulblade,fm,15,mag,b,faith,Mastermind
+Dimitri,55,55,15,55,40,25,35,10,45,bl,Noble,riding,Hasty Swap,fm,,,,,Royal Lineage
+Dedue,65,60,5,35,15,35,50,20,30,bl,Commoner,authority,Flanking Strike,fm,,,,,Staunch Shield
+Felix,45,50,25,40,50,40,30,15,20,bl,Noble,reason,Fey Swap,fm,15,spd,b+,sword,Defiant Avoid
+Mercedes,35,25,50,40,40,30,20,40,40,bl,Commoner,bow,Arcane Arrow,fm,15,mag,c,bow,Live to Serve
+Ashe,45,35,30,70,50,60,25,35,40,bl,Commoner,lance,Bold Swap,fm,15,cha,c,lance,Stealth
+Annette,30,30,50,50,35,40,20,30,45,bl,Noble,flying,Sly Swap,fm,10,mag,b+,faith,Perseverance
+Sylvain,55,45,35,30,45,30,40,35,30,bl,Noble,reason,Fell Swap,fm,25,cha,c,reason,Philanderer
+Ingrid,35,35,35,35,55,45,25,45,45,bl,Noble,axe,Lightning Axe,fm,15,dex,d,flying,Lady Knight
+Claude,45,45,25,60,55,50,25,25,50,gd,Noble,axe,Bold Swap,fm,,,,,Leicester Lineage
+Lorenz,40,40,40,40,40,40,40,40,40,gd,Noble,faith,Fell Swap,fm,20,cha,c,reason,Distinguished House
+Raphael,65,55,10,30,25,40,45,0,35,gd,Commoner,riding,Spike,fm,20,str,c,heavyArmor,Renewal
+Ignatz,40,35,30,75,45,75,35,35,35,gd,Commoner,reason,Fey Swap,fm,10,dex,b,authority,Watchful Eye
+Lysithea,10,10,60,60,55,20,0,25,35,gd,Noble,sword,Hexblade,fm,15,mag,b,faith,Mastermind
 Marianne,30,15,50,35,35,35,10,45,40,gd,Noble,lance,Frozen Lance,fm,10,mag,c,riding,Quiet Resolve
-Hilda,50,45,25,30,50,35,35,20,50,gd,Noble,heavyArmor,Seal Speed,fm,30,cha,c,axe,Advocate
-Leonie,40,45,20,50,55,40,40,5,30,gd,Commoner,,,fm,15,str,c,lance,Rivalry
+Hilda,50,45,25,30,50,35,35,20,50,gd,Noble,heavyArmor,Sturdy Swap,fm,30,cha,c,axe,Advocate
+Leonie,40,45,20,50,55,40,40,5,30,gd,Commoner,brawling,Sly Swap,fm,15,str,c,lance,Rivalry
 Seteth,45,45,45,45,35,45,35,15,50,cos,Wyvern Rider,,,fm,,,,,Guardian
-Flayn,20,20,50,20,30,40,15,55,40,cos,Priest,reason,Seal Magic,fm,,,,,Lily's Poise
+Flayn,20,20,50,20,30,40,15,55,40,cos,Priest,reason,Fey Swap,fm,,,,,Lily's Poise
 Hanneman,45,35,60,40,10,30,35,45,30,cos,Mage,,,fm,,,,,Crest Scholar
 Manuela,40,35,45,45,55,15,15,35,50,cos,Priest,,,fm,,,,,Infirmary Master
 Gilbert,60,50,25,55,30,5,50,15,35,kos,Fortress Knight,,,fm,,,,,Veteran Knight
 Alois,50,45,20,35,40,35,40,25,40,kos,Warrior,,,fm,,,,,Compassion
 Catherine,50,50,25,25,55,25,25,15,25,kos,Swordmaster,,,fm,,,,,Fighting Spirit
 Shamir,40,40,20,65,45,65,25,25,35,kos,Sniper,,,fm,,,,,Survival Instinct
-Cyril,50,45,40,60,50,40,30,20,30,cos,Commoner,,,fm,,,,,Aptitude
-Yuri,40,40,35,45,65,65,20,40,60,aw,Noble,bow,Deadeye,fm,15,dex,c,faith,Honorable Spirit
-Balthus,50,50,30,25,25,25,45,30,40,aw,Noble,reason,Black Magic Crit +10,fm,15,str,c,brawling,King Of Grappling
-Constance,5,30,60,30,40,20,10,20,40,aw,Noble,brawling,Mystic Blow,fm,15,mag,d,flying,Circadian Beat
-Hapi,40,40,45,45,35,55,30,50,30,aw,Noble,axe,Exhaustive Strike,fm,10,res,c,riding,Composure
+Cyril,50,45,40,60,50,40,30,20,30,cos,Commoner,heavyArmor,Sturdy Swap,fm,,,,,Aptitude
+Yuri,40,40,35,45,65,65,20,40,60,aw,Noble,bow,Arcane Arrow,fm,15,dex,c,faith,Honorable Spirit
+Balthus,50,50,30,25,25,25,45,30,40,aw,Noble,reason,Fell Swap,fm,15,str,c,brawling,King Of Grappling
+Constance,5,30,60,30,40,20,10,20,40,aw,Noble,brawling,Hasty Swap,fm,15,mag,d,flying,Circadian Beat
+Hapi,40,40,45,45,35,55,30,50,30,aw,Noble,axe,Sly Swap,fm,10,res,c,riding,Composure
